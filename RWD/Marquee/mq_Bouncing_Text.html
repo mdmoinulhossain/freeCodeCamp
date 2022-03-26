@@ -1,0 +1,31 @@
+<html>
+<style>
+.cssmarquee {
+height: 50px;
+overflow: hidden;
+position: relative;
+}
+.cssmarquee h1 {
+position: absolute;
+color: turquoise;
+width: 100%;
+height: 100%;
+margin: 0;
+line-height: 50px;
+text-align: left;
+animation: cssmarquee 15s linear infinite alternate;
+}
+@keyframes cssmarquee {
+50% {
+transform: translateX(70%);
+}
+100% {
+transform: translateX(0%);
+}
+}
+</style>
+ 
+<div class="cssmarquee">
+<h1>Eurekaa...Bouncing text... </h1>
+</div>
+<html>
