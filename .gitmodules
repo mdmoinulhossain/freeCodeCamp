@@ -1,3 +1,6 @@
 [submodule "RWD/projects/FCC-RWD-Product_display_page"]
 	path = RWD/projects/FCC-RWD-Product_display_page
 	url = https://github.com/mdmoinulhossain/FCC-RWD-Product_display_page.git
+[submodule "RWD/projects/form-submission-PHP-MySQL"]
+	path = RWD/projects/form-submission-PHP-MySQL
+	url = https://github.com/mdmoinulhossain/form-submission-PHP-MySQL.git
