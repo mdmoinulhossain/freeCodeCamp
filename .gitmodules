@@ -1,6 +1,16 @@
-[submodule "RWD/projects/FCC-RWD-Product_display_page"]
-	path = RWD/projects/FCC-RWD-Product_display_page
-	url = https://github.com/mdmoinulhossain/FCC-RWD-Product_display_page.git
-[submodule "RWD/projects/form-submission-PHP-MySQL"]
-	path = RWD/projects/form-submission-PHP-MySQL
-	url = https://github.com/mdmoinulhossain/form-submission-PHP-MySQL.git
+=========== Projects
+1. Biography: 
+Repo: https://github.com/mdmoinulhossain/FCC-RWD-Biography.git
+Live: 
+
+2. Submit form:
+Repo: https://github.com/mdmoinulhossain/form-submission-PHP-MySQL.git
+Live:
+
+3. Product Display Page:
+Repo: https://github.com/mdmoinulhossain/FCC-RWD-Product_display_page.git
+Live:
+
+4. Documentation page:
+Repo: https://github.com/mdmoinulhossain/Dev-Docs.git
+Live: https://mdmoinulhossain.github.io/Dev-Docs/
