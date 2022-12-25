@@ -1,9 +1,9 @@
-=========== Projects
+=========== Projects ==================
 1. Biography landing page: 
 Repo: https://github.com/mdmoinulhossain/FCC-RWD-Biography.git
 Live: https://mdmoinulhossain.github.io/FCC-RWD-Biography/
 
-2. Submit form (Survay form):
+2. Submit form (survey form):
 Repo: https://github.com/mdmoinulhossain/form-submission-PHP-MySQL.git
 Live: https://mdmoinulhossain.github.io/form-submission-PHP-MySQL/
 
